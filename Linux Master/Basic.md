@@ -59,10 +59,10 @@
  - 리눅스에서는 사용자가 명령어 입력 -> 셸(Shell)[^shell]이 명령어를 해석하여 커널(Kernel)로 전달 -> 커널이 요청된 프로그램이 실행될 수 있도록 처리한다.
 
 
-[^kernel]: [커널 설명](../Terms#kernel) 
+[^kernel]: [커널 설명](../Terms.md#Kernel) 
 [^copyleft]: GPL 코드를 활용해 배포한다면, 받은 사람도 수정·공유할 자유를 가져야 한다
 [^lgpl]: LGPL조건은 GPL보다 완화된 Copyleft 규칙으로 LGPL 라이브러리를 사용한 내 프로그램은 비공개로 배포할 수 있지만, LGPL 라이브러리 자체를 수정했다면 수정한 
           라이브러리 부분은 공개해야 한다. 
 [^redhat]: 과거 Red Hat Linux의 일반 사용자용 성격은 Fedora가 이어받았고, 기업용 상용 배포판은 RHEL이 담당하게 되었다.
 [^centos]: 과거의 CentOS Linux는 RHEL 소스 기반의 무료 호환 배포판이었다. 현재 CentOS Stream은 Fedora와 RHEL 사이에서 RHEL의 다음 릴리스 개발에 가까운 위치를 가진다.
-[^shell]: [셸 설명](../Terms#Shell)
+[^shell]: [셸 설명](../Terms.md#Shell)
