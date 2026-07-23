@@ -65,4 +65,4 @@
           라이브러리 부분은 공개해야 한다. 
 [^redhat]: 과거 Red Hat Linux의 일반 사용자용 성격은 Fedora가 이어받았고, 기업용 상용 배포판은 RHEL이 담당하게 되었다.
 [^centos]: 과거의 CentOS Linux는 RHEL 소스 기반의 무료 호환 배포판이었다. 현재 CentOS Stream은 Fedora와 RHEL 사이에서 RHEL의 다음 릴리스 개발에 가까운 위치를 가진다.
-[^shell]: 셸은 사용자와 커널 사이에서 명령을 해석하고 실행을 요청하는 명령어 해석기 프로그램이다.
+[^shell]: [셸 설명](../Terms#Shell)
