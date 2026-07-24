@@ -41,5 +41,5 @@
 [^field]: 텍스트 문서에서 띄어쓰기, 쉼표(,), 콜론(:) 같은 특정 기호(구분자)를 기준으로 데이터를 칸칸이 나누었을 때, 그 하나하나의 칸을 필드라고 부른다. ex) 이름,나이,직업 이라는 텍스트 문서에서 cut -d ',' -f 2라고 명령어를 치면 ,로 나눈 것 중 2번째 필드(나이)만 화면에 출력된다.
 [^dircp]: mkdir -p /firstdir/seconddir로 두 디렉토리를 만들고 cp -R firstdir seconddir firstdir복사 시 하위 디렉토리와 파일까지 복사한다. <br>* -R 옵션은 지정한 디렉토리뿐만 아니라 그 아래의 모든 하위 데릭토리와 파일까지 포함하여 동일한 명령을 일괄 적용할 때 사용된다.
 [^alias]: 생성한 별칭(단축키)는 터미널 종료 시 등록이 사라지며, 영구 등록을 위해서는 편집기를 이용하여 ~/.bashrc 파일에 등록해야 한다. (~는 Home Directory = 윈도우의 C:\Users\사용자명과 같음. .은 숨김 파일. bashrc는 터미널이 실행될 때 읽어들이는 설정 파일.)
-[^subnet]: [서브넷 마스크 설명](../Terms#subnet mask)
-[^gateway]: [게이트 웨이 설명](../Terms#gateway)
+[^subnet]: [서브넷 마스크 설명](../Terms.md#subnet_mask)
+[^gateway]: [게이트 웨이 설명](../Terms.md#gateway)
