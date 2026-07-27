@@ -31,7 +31,7 @@
 - mkdir: 디렉토리(폴더) 생성. ex) mkdir -p /test-a/test-b: test-a 디렉토리를 만들고 그 안에 test-b 디렉토리를 만든다.
 - cp: 복사. cp test.txt a.txt: test.txt파일을 a.txt로 이름을 변경하여 복사[^dircp]
 - mv: 파일, 폴더 이동(원본X). mv {기존 파일명} {바꿀 이름}
-- rm: 파일이나 디렉토리를 삭제. rm 파일명 -f: 묻지 않고 삭제(기본은 Y,N). -rf 디렉토리 이름: 디렉토리 삭제(하위 디렉토리 포함)
+- rm: 파일이나 디렉토리를 삭제. rm 파일명 -f: 묻지 않고 삭제(기본은 Y,N). -rf 디렉토리 이름: 디렉토리를 삭제한다(하위 디렉토리 포함).
 - >,>> (redirection): 스트림의 방향 조정 및 저장. pwd > test.txt: pwd 내용을 test.txt 파일로 저장. date >> test.txt: date 내용을 기존 test.txt 아래 이어 붙인다.
 - alias: 긴 명령어와 옵션을 짧은 단축키처럼 사용할 수 있는 별칭 생성. alias 단축명령어='기존명령어 옵션'. ex) alias cc='ls -al': cc를 입력하면 ls -al과 같은 명령어가 실행된다[^alias].
 - ifconfig: 설정된 IP, 서브넷 마스크, 게이트웨이 등을 확인한다.[^subnet][^gateway] 윈도우의 ipconfig
