@@ -29,5 +29,5 @@
 
 
 [^mnt]: USB를 장착을 해서 디렉터리를 만들고 USB와 디렉터리를 연결하는 것.
-[^sym]: [심볼릭 링크](./Terms.md#symbolic-link)
-[^hard]: [하드링크]((./Terms.md#hardlink)
+[^sym]: [심볼릭 링크](../Terms.md#symbolic-link)
+[^hard]: [하드링크](../Terms.md#hard-link)
