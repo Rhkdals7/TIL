@@ -1,4 +1,4 @@
-## 리눅스 디렉터리 구조
+<img width="369" height="185" alt="image" src="https://github.com/user-attachments/assets/bfaf57cb-c975-47ea-ba0f-57b4595a54c9" />## 리눅스 디렉터리 구조
 - 리눅스는 트리구조
 - 파일을 효율적으로 관리하기 위해 디렉터리를 계층적으로 구성
 - 모든 디렉터리의 출발점은 루트(root)이며, /으로 표현
@@ -32,7 +32,7 @@
 ## 절대 경로와 상대 경로
 - 절대 경로: 모든 시작이 /(root)부터 시작
 - 상대 경로: 모든 시작이 현재 디렉터리부터 시작
-- <img width="369" height="185" alt="image" src="https://github.com/user-attachments/assets/308755ea-1d1d-4e2c-8044-cc75bbe2b515" />
+- ex) <img width="369" height="185" alt="image" src="https://github.com/user-attachments/assets/308755ea-1d1d-4e2c-8044-cc75bbe2b515" /><br>perl에서 php로 이동<br>절대경로: cd /etc/bin/php<br>상대경로: ../php
 
 
 [^mnt]: USB를 장착을 해서 디렉터리를 만들고 USB와 디렉터리를 연결하는 것.
