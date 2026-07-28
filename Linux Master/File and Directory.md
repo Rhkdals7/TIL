@@ -1,4 +1,4 @@
-<img width="369" height="185" alt="image" src="https://github.com/user-attachments/assets/1956fe74-d52f-48b5-b285-0dd909b0e80e" />## 리눅스 디렉터리 구조
+## 리눅스 디렉터리 구조
 - 리눅스는 트리구조
 - 파일을 효율적으로 관리하기 위해 디렉터리를 계층적으로 구성
 - 모든 디렉터리의 출발점은 루트(root)이며, /으로 표현
