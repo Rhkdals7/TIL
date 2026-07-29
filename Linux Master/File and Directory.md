@@ -33,7 +33,6 @@
 - 절대 경로: 모든 시작이 /(root)부터 시작
 - 상대 경로: 모든 시작이 현재 디렉터리부터 시작
 - ex) <img width="369" height="185" alt="image" src="https://github.com/user-attachments/assets/308755ea-1d1d-4e2c-8044-cc75bbe2b515" /><br>perl에서 php로 이동&emsp;&emsp;&emsp;&emsp;perl에서 bin/cc로 이동<br>절대경로: cd /etc/bin/php&emsp;&emsp;&ensp;cd /bin/cc<br>상대경로: cd ../php&emsp;&emsp;&emsp;&emsp;&emsp;cd ../../../bin/php
-- 
 
 
 [^mnt]: USB를 장착을 해서 디렉터리를 만들고 USB와 디렉터리를 연결하는 것.
