@@ -35,6 +35,9 @@
 - ex) <img width="369" height="185" alt="image" src="https://github.com/user-attachments/assets/308755ea-1d1d-4e2c-8044-cc75bbe2b515" /><br>perl에서 php로 이동&emsp;&emsp;&emsp;&emsp;perl에서 bin/cc로 이동<br>절대경로: cd /etc/bin/php&emsp;&emsp;&ensp;cd /bin/cc<br>상대경로: cd ../php&emsp;&emsp;&emsp;&emsp;&emsp;cd ../../../bin/php
 
 
+## 관련 명령어
+ls 명령과 비슷한 dir,vdir
+
 [^mnt]: USB를 장착을 해서 디렉터리를 만들고 USB와 디렉터리를 연결하는 것.
 [^sym]: [심볼릭 링크](../Terms.md#symbolic-link)
 [^hard]: [하드링크](../Terms.md#hard-link)
